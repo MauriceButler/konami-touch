@@ -1,0 +1,31 @@
+{
+  "name": "konami-touch",
+  "version": "0.0.0",
+  "description": "Touch support for konami code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MauriceButler/konami-touch.git"
+  },
+  "keywords": [
+    "konami",
+    "touch",
+    "touchscreen",
+    "phone",
+    "iphone",
+    "android",
+    "gesture"
+  ],
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/konami-touch/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/konami-touch",
+  "dependencies": {
+    "interact-js": "^0.4.6"
+  }
+}
