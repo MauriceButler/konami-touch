@@ -1,6 +1,6 @@
 {
   "name": "konami-touch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Touch support for konami code",
   "main": "index.js",
   "scripts": {
