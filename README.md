@@ -9,7 +9,7 @@ Watches for the konami code (↑ ↑ ↓ ↓ ← → ← → TAP TAP TAP) to be 
 
 ##Usage
 
-    var KonamiTouch = require('../');
+    var KonamiTouch = require('konami-touch');
 
     new KonamiTouch(function(){
         alert('KONAMI!');
