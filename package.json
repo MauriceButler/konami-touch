@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/MauriceButler/konami-touch",
   "dependencies": {
-    "math-js": "0.0.4",
-    "gestures": "0.0.1"
+    "math-js": "^0.0.4",
+    "gestures": "^0.0.2"
   }
 }
